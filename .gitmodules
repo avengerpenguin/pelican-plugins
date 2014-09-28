@@ -58,3 +58,6 @@
 [submodule "pelican-md-yaml"]
 	path = pelican-md-yaml
 	url = https://github.com/joachimneu/pelican-md-yaml.git
+[submodule "gallery2"]
+	path = gallery2
+	url = https://github.com/hunt3r/pelican-gallery
